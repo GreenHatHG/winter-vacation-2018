@@ -6,7 +6,7 @@
 
 *(主要是针对计算机专业的学习)*
 
-- 主要使用交流工具：GitHub、Telegram、QQ群、WeChat
+- 主要使用交流工具：GitHub、QQ群、WeChat
 
 - 你得到什么：
 
@@ -22,7 +22,7 @@
 
   ​	6.MarkDown使用基础
 
-  ​	7.html+css+javascript
+  ​	7.html+css+javascript(暂定)
 
 - 适用人群：
 
